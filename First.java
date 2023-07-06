@@ -1,5 +1,8 @@
-public class First {
+public class First{
     public static void main(String[] args){
-        System.out.println("Hello World");
+        int a = 23;
+        int b = 33;
+
+        System.out.println(a+b);
     }
 }
